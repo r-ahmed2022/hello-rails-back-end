@@ -25,7 +25,7 @@
 
 # 📖 Hello Rails Back End <a name="about-project"></a>
 
-A practice setup of a back end Rails app that is accessed by a React based app. Click this [hello-react-front-end](https://github.com/r-ahmed2022/hello-react-front-end) link to access the frontend app's repo.
+A practice setup of a back end Rails app that is accessed by a React based Front-End. Click this [hello-react-front-end](https://github.com/r-ahmed2022/hello-react-front-end) link to access the frontend app's repo.
 cd 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -105,7 +105,7 @@ If you like this project or find it useful, please consider giving it a ⭐️. 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Microverse.
-- Cocde Reviewers
+- Code Reviewers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
