@@ -25,8 +25,8 @@
 
 # 📖 Hello Rails Back End <a name="about-project"></a>
 
-A practice setup of a back end Rails app that is accessed by a React based app. Click this [hello-rails-back-end](https://github.com/r-ahmed2022/hello-rails-back-end) link to access the frontend app's repo.
-
+A practice setup of a back end Rails app that is accessed by a React based app. Click this [hello-react-front-end](https://github.com/r-ahmed2022/hello-react-front-end) link to access the frontend app's repo.
+cd 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -37,11 +37,6 @@ A practice setup of a back end Rails app that is accessed by a React based app. 
 ### Key Features <a name="key-features"></a>
 
 - **Built as an Api**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### 🚀 Live Demo
-No demo available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
